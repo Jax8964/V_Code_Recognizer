@@ -8,3 +8,4 @@ This is a program using the method of machine learning to recognize verification
 
 This program is a trial of using tensorflow to recognize verification codes which contain only numbers and alphabets.
 
+iiiiiiii
